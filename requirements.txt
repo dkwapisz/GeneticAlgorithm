@@ -1,0 +1,4 @@
+customtkinter
+packaging
+numpy~=1.26.1
+matplotlib
